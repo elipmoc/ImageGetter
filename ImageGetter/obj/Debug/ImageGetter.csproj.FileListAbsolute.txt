@@ -1,0 +1,9 @@
+C:\Users\b7306\Desktop\ImageGetter\ImageGetter\bin\Debug\ImageGetter.exe.config
+C:\Users\b7306\Desktop\ImageGetter\ImageGetter\bin\Debug\ImageGetter.exe
+C:\Users\b7306\Desktop\ImageGetter\ImageGetter\bin\Debug\ImageGetter.pdb
+C:\Users\b7306\Desktop\ImageGetter\ImageGetter\obj\Debug\ImageGetter.csprojResolveAssemblyReference.cache
+C:\Users\b7306\Desktop\ImageGetter\ImageGetter\obj\Debug\ImageGetter.Form1.resources
+C:\Users\b7306\Desktop\ImageGetter\ImageGetter\obj\Debug\ImageGetter.Properties.Resources.resources
+C:\Users\b7306\Desktop\ImageGetter\ImageGetter\obj\Debug\ImageGetter.csproj.GenerateResource.Cache
+C:\Users\b7306\Desktop\ImageGetter\ImageGetter\obj\Debug\ImageGetter.exe
+C:\Users\b7306\Desktop\ImageGetter\ImageGetter\obj\Debug\ImageGetter.pdb
